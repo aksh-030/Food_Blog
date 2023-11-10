@@ -4,4 +4,4 @@ A journal-like blogging website to document a range of food-related content, suc
 The application presents blogs in a chronological order and includes a relatively simple but effective filtering system.
 
 ## Goal
-To provide a friendly, intuitive and ppleasing user interface where users can build a community and share their passion for food.
+To provide a friendly, intuitive and pleasing user interface where users can build a community and share their passion for food.
